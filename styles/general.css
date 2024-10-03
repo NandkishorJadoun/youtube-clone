@@ -1,0 +1,21 @@
+div{
+    font-family: "Roboto", sans-serif;
+}
+body{
+    margin: 0px;
+    padding-top: 80px;
+    height: 1200px;
+    
+    padding-right: 24px;
+    background-color: rgb(247, 247, 247);
+}
+@media (min-width:1200.1px){
+    body{
+        padding-left: 226px;
+    }
+}
+@media (max-width:1200px){
+    body{
+        padding-left: 96px;
+    }
+}
